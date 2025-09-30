@@ -4,13 +4,23 @@
 
 FROM python:3.10.8-slim-buster
 
-RUN apt update && apt upgrade -y
-RUN apt install git -y
+# Install git and clean up cache
+RUN apt-get update && apt-get install -y --no-install-recommends \
+        git \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy requirements first for caching
 COPY requirements.txt /requirements.txt
 
-RUN cd /
-RUN pip3 install -U pip && pip3 install -U -r requirements.txt
-RUN mkdir /VJ-FILTER-BOT
+# Upgrade pip and install dependencies
+RUN pip3 install --no-cache-dir -U pip && \
+    pip3 install --no-cache-dir -r /requirements.txt
+
+# Set working directory
 WORKDIR /VJ-FILTER-BOT
-COPY . /VJ-FILTER-BOT
+
+# Copy project files
+COPY . .
+
+# Start bot
 CMD ["python", "bot.py"]
