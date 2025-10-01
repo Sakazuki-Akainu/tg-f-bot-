@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://images2.alphacoders.com/119/1194199.jpg" alt="tg-F-Bot Logo">
+  <img src="https://images2.alphacoders.com/119/1194199.jpg" alt="tg-F-Bot ">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  tg f bot
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
@@ -204,6 +204,7 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.</b>
 </pre>
 </p>
 </details>
+
 
 
 
