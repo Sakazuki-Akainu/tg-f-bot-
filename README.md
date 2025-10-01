@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://graph.org/file/4a8cd6b9161203a48cc6a-2b735c0b5c83d2460b.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fbig.php%3Fi%3D1194199&psig=AOvVaw098b_fM-FAlk9RpzN55tUv&ust=1759372669240000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICMrYv8gZADFQAAAAAdAAAAABAl)" alt="tg-F-Bot Logo">
+  <img src="[[https://graph.org/file/4a8cd6b9161203a48cc6a-2b735c0b5c83d2460b.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fbig.php%3Fi%3D1194199&psig=AOvVaw098b_fM-FAlk9RpzN55tUv&ust=1759372669240000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICMrYv8gZADFQAAAAAdAAAAABAl)](https://images2.alphacoders.com/119/1194199.jpg)" alt="tg-F-Bot Logo">
 </p>
 <h1 align="center">
   VJ FILTER BOT
